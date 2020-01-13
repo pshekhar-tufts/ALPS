@@ -1,13 +1,13 @@
 # ALPS
 Code for the ALPS framework
 
-This repository provides the code for Implementation and Usage for
+This repository provides the code for following functionalities
 
 1. Using GCV to fit the ALPS model
 2. Using REML to fit the ALPS model
-3. Functionality for outlier detection in time series
-4. Segregating low frequency and high frequency effects
-5. Computing the derivative for the prediction
+3. Outlier detection in time series
+4. Segregation of low frequency and high frequency effects
+5. Computation of 1st derivative for the produced approximation
 
 And various other foundational functions on which these higher level functions are built.
 
